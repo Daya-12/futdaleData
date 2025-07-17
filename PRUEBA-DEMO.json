@@ -5,7 +5,7 @@
     "Imagen": "https://www.retrofootball.es/media/wysiwyg/1997-98_F.C._BARCELONA_PRIMERA_-_CHAMPIONS_LEAGUE-removebg-preview.png",
     "Relevant": "Es la primera camiseta oficial de Barcelona con la marca Nike, y curiosamente fue la última temporada de Johan Cruyff como entrenador, dejando un legado imborrable.",
     "Stars": 4.8,
-    "Price": "$75"
+    "Price": "$120.000"
   },
   {
     "Name": "Manchester United 1999",
@@ -13,7 +13,7 @@
     "Imagen": "https://images.footballfanatics.com/manchester-united/manchester-united-1999-shirt_ss4_p-11989172+u-1drpsf7gruvmy0qd3f82+v-294fbc620cf74affad2b8648b3181f12.jpg?_hv=2&w=900",
     "Relevant": "Es recordada como la camiseta del 'Milagro de Camp Nou', donde United remontó contra el Bayern Munich en el último minuto para ganar la Champions League, un momento épico en la historia del fútbol.",
     "Stars": 4.9,
-    "Price": "$80"
+    "Price": "$95.000"
   },
   {
     "Name": "Brasil 1982",
@@ -21,7 +21,7 @@
     "Imagen": "https://dcdn-us.mitiendanube.com/stores/002/301/722/products/novo-projeto-421-78f85d91a6209b936916717728674042-480-0.png",
     "Relevant": "A pesar de no ganar el Mundial, esta camiseta es un ícono por representar a un equipo que influyó profundamente en el fútbol moderno gracias a su estilo y talento.",
     "Stars": 4.7,
-    "Price": "$70"
+    "Price": "$110.000"
   },
   {
     "Name": "Italia 1982",
@@ -29,6 +29,6 @@
     "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZd4QSAjcF62LLISt2EHDYc0U0gRP9P_YeQ&s",
     "Relevant": "El Mundial de 1982 fue una sorpresa para muchos, ya que Italia superó equipos favoritos y venció en la final a Alemania Occidental, quedando para siempre en la historia con esta camiseta.",
     "Stars": 4.6,
-    "Price": "$65"
+    "Price": "$100.000"
   }
 ]
