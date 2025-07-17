@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "FC Barcelona 1992",
+    "Description": "Esta camiseta representa al legendario FC Barcelona de la temporada 1991-1992, una época dorada para el club catalán. Fue la primera vez que Barcelona ganó la Copa de Europa (ahora Champions League), bajo la dirección del mítico entrenador Johan Cruyff y con jugadores estrella como Ronald Koeman y Hristo Stoichkov. El diseño clásico con las franjas blaugranas y el logo de Nike marcó el inicio de una nueva era en la indumentaria deportiva del club.",
+    "Imagen": "https://www.retrofootball.es/media/wysiwyg/1997-98_F.C._BARCELONA_PRIMERA_-_CHAMPIONS_LEAGUE-removebg-preview.png",
+    "Relevant": "Es la primera camiseta oficial de Barcelona con la marca Nike, y curiosamente fue la última temporada de Johan Cruyff como entrenador, dejando un legado imborrable.",
+    "Stars": 4.8,
+    "Price": "$75"
+  },
+  {
+    "Name": "Manchester United 1999",
+    "Description": "Esta camiseta es un símbolo de la gloriosa temporada 1998-1999 del Manchester United, cuando lograron el histórico triplete: Premier League, FA Cup y UEFA Champions League. La camiseta roja con detalles en negro y dorado, con el emblemático escudo del club, representa el poderío y la dominación inglesa de ese momento, comandada por Sir Alex Ferguson y jugadores legendarios como David Beckham, Ryan Giggs y Roy Keane.",
+    "Imagen": "https://images.footballfanatics.com/manchester-united/manchester-united-1999-shirt_ss4_p-11989172+u-1drpsf7gruvmy0qd3f82+v-294fbc620cf74affad2b8648b3181f12.jpg?_hv=2&w=900",
+    "Relevant": "Es recordada como la camiseta del 'Milagro de Camp Nou', donde United remontó contra el Bayern Munich en el último minuto para ganar la Champions League, un momento épico en la historia del fútbol.",
+    "Stars": 4.9,
+    "Price": "$80"
+  },
+  {
+    "Name": "Brasil 1982",
+    "Description": "Esta camiseta amarilla con detalles verdes y azules fue usada por una de las selecciones más carismáticas y admiradas de la historia del fútbol: Brasil en el Mundial de España 1982. Con figuras como Zico, Sócrates y Falcão, este equipo desplegó un fútbol ofensivo y elegante, aunque no logró conquistar el título. La camiseta es un emblema del estilo y la pasión brasileña por el juego bonito.",
+    "Imagen": "https://dcdn-us.mitiendanube.com/stores/002/301/722/products/novo-projeto-421-78f85d91a6209b936916717728674042-480-0.png",
+    "Relevant": "A pesar de no ganar el Mundial, esta camiseta es un ícono por representar a un equipo que influyó profundamente en el fútbol moderno gracias a su estilo y talento.",
+    "Stars": 4.7,
+    "Price": "$70"
+  },
+  {
+    "Name": "Italia 1982",
+    "Description": "La camiseta azul celeste que vistió la selección italiana durante el Mundial de 1982 es un símbolo de orgullo nacional. Italia, bajo la dirección de Enzo Bearzot y con jugadores clave como Paolo Rossi, defendió con fuerza y estrategia para llevarse su tercer título mundial. Esta camiseta evoca momentos de gloria y sacrificio, y es muy querida por los fanáticos del fútbol italiano.",
+    "Imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZd4QSAjcF62LLISt2EHDYc0U0gRP9P_YeQ&s",
+    "Relevant": "El Mundial de 1982 fue una sorpresa para muchos, ya que Italia superó equipos favoritos y venció en la final a Alemania Occidental, quedando para siempre en la historia con esta camiseta.",
+    "Stars": 4.6,
+    "Price": "$65"
+  }
+]
